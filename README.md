@@ -31,6 +31,30 @@ An AI-powered Streamlit dashboard for analyzing fuel station data with interacti
 - FPDF
 
 ---
+## 📓 Jupyter Notebook Analysis
+
+In addition to the Streamlit dashboard, I also performed exploratory data analysis (EDA) and visualizations using Jupyter Notebook.
+
+### 📊 Key Visualizations in Notebook:
+- Revenue vs Profit Analysis
+- Fuel Type Distribution
+- Customer Behavior Analysis
+- Correlation Heatmap
+- Payment Mode Insights
+- Trend Analysis using Matplotlib & Seaborn
+
+### 🔍 Insights from Notebook:
+- Diesel and Petrol contribute most to revenue
+- Profit strongly correlates with revenue
+- Customer rating impacts business performance
+- Seasonal trends observed in fuel sales
+
+### 🛠 Tools Used:
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+- fpdp
 
 ## 📁 Dataset
 Fuel station sales dataset with revenue, profit, fuel type, customer data.
