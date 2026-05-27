@@ -5,7 +5,8 @@ An AI-powered Streamlit dashboard for analyzing fuel station data with interacti
 ---
 
 ## 🌐 Live App
-👉 smart-fuel-station-analytsis-system ∙ main ∙ streamlit_app.py
+
+👉 [Click here to open the app](https://smart-fuel-station-analytsis-system-ypam8vkxxjc4jm7aqyappxp.streamlit.app/)
 
 
 
