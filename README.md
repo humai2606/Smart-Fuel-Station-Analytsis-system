@@ -8,10 +8,18 @@ An AI-powered Streamlit dashboard for analyzing fuel station data with interacti
 
 👉 [Click here to open the app](https://smart-fuel-station-analytsis-system-ypam8vkxxjc4jm7aqyappxp.streamlit.app/)
 
+## 📓 Jupyter Notebook Analysis
+
+👉 [View Notebook](./Fuel_Station_Analysis.ipynb)
 
 
 ---
+I performed complete data analysis using Python.
 
+### 🔍 Includes:
+- Data Cleaning
+- Visualization (Matplotlib, Seaborn)
+- Insights Extraction
 ## 📊 Features
 - AI Dashboard with charts
 - Revenue & Profit analysis
@@ -60,7 +68,12 @@ In addition to the Streamlit dashboard, I also performed exploratory data analys
 Fuel station sales dataset with revenue, profit, fuel type, customer data.
 
 ---
+## 🏆 Project Status
+✔ Completed  
+✔ Deployed on Streamlit Cloud  
+✔ Includes Machine Learning + Visualization + PDF Reports
 
 ## 🚀 Run Locally
 ```bash
 streamlit run streamlit_app.py
+
